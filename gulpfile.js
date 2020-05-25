@@ -1,5 +1,2 @@
-var gulp = require('gulp');
-
-gulp.task('default', function(){
-  console.log('sike');
-})
+require('./gulp/tasks/styles');
+require('./gulp/tasks/watch');
