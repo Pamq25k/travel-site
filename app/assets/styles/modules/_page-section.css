@@ -1,0 +1,11 @@
+.page-section{
+  padding: 1em 0;
+  
+  &--blue{
+    background-color: $mainBlue;
+  }
+  
+  @mixin atSmall{
+    padding: 4.5em 0;
+  }
+}
