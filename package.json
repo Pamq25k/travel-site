@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/pamq25k/travel-site#readme",
   "dependencies": {
-    "jquery": "3.2.1",
+    "jquery": "3.5.0",
     "normalize.css": "7.0.0"
   },
   "devDependencies": {
